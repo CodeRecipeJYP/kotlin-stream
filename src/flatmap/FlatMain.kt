@@ -1,4 +1,4 @@
-import java.util.stream.Stream
+package flatmap
 
 fun main(args: Array<String>) {
     println("hello kotlin")
